@@ -17,7 +17,7 @@
     
     --text-color: #cececd; /* Dark gray for text - easier on eyes than pure black */
     --main-color: #966f1d; /* Soft blue accent that complements without being harsh */
-    --highlight-color: #36d1dc; /* Optional highlight color for buttons/important elements */
+    --highlight-color: black; /* Optional highlight color for buttons/important elements */
 }
 html {
     font-size: 62.5%;
